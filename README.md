@@ -1,6 +1,6 @@
 
-# ShowcaseApp
+# Angular Learning
 
-Just a showcase webpage for responsiveness and UI/UX
+Just learning a bit of Angular (WIP)
 
-Go to https://imme2.github.io/Showcase-app/ for the actual webpage!
+Go to https://imme2.github.io/Showcase-app/ for the actual webpage
